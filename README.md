@@ -24,6 +24,6 @@ Cursando Pós em Big Data na Descomplica.
 
 Veja os tutoriais publicados do Sigmoidal:
 
-- **Analisando os Dados do Airbnb de Buenos Aires:** https://bit.ly/2NCxIyk
+- **Analisando os Dados do Airbnb de Buenos Aires:** https://bit.ly/37PKYqt
 
 ---
