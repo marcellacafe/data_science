@@ -18,14 +18,12 @@ Cursando Pós em Big Data na Descomplica.
 
 **Links:**
 
-- [Blog](http://sigmoidal.ai)
 - [LinkedIn](https://www.linkedin.com/in/marcella-café)
-- [Medium](https://www.medium.com)
 
 ## Projetos:
 
 Veja os tutoriais publicados do Sigmoidal:
 
-- **Analisando os Dados do Airbnb de Buenos Aires:** https://bit.ly/2L2cMwy
+- **Analisando os Dados do Airbnb de Buenos Aires:** https://bit.ly/2NCxIyk
 
 ---
