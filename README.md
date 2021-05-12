@@ -8,11 +8,13 @@
 
 <sub>_Programador de Sistemas Pleno III_ at PSV Engenharia de Sistemas</sub>
 
-Mais de 2 anos em desenvolvimento.
-Experiência em análise e visualização de dados utilizando a Linguagem R e o pacote Shiny.
-Experiência em Power BI.
-Atualmente estou desenvolvendo habilidade em estatística e na linguagem Python com ênfase em Data Science.
-Cursando Pós em Big Data na Descomplica.
+- Mais de 3 anos em desenvolvimento.
+- Experiência em análise e visualização de dados utilizando a Linguagem R e o pacote Shiny.
+- Experiência em Power BI.
+- Experiência em projetos de detecção de imagens.
+- Atualmente estou desenvolvendo habilidade em estatística e na linguagem Python com ênfase em Data Science.
+- Cursando Pós em Big Data na Descomplica.
+- Cursando o Aplicações Estatísticas na FIA.
 
 **Background in:** R, Python, Machine Learning, Power BI, Análise de Dados, SQL, PostgreSQL.
 
